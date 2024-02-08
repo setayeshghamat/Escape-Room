@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<Game>
+	<Title>Room Exploration Game</Title>
+	<Width>720</Width>
+	<Height>480</Height>
+	<LevelDesign1>/maps/level1.png</LevelDesign1>
+	<LevelDesign2>/maps/level2.png</LevelDesign2>
+	<LevelDesign3>/maps/level3.png</LevelDesign3>
+	<LevelDesign4>/maps/level4.png</LevelDesign4>
+	<LevelDesign5>/maps/level5.png</LevelDesign5>
+	<ObjectWidth>16</ObjectWidth>
+	<ObjectHeight>16</ObjectHeight>
+</Game>
