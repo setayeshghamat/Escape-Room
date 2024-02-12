@@ -8,7 +8,8 @@ Features
     Dynamic Gameplay: Players move a character with health and attack points through pages, facing monsters and avoiding traps.
     Collectible Items: Includes magic potions for attack points, health potions, and fireballs for combat.
     Enemy and Trap Mechanics: Enemies move within the game space, with some capable of wall traversal. Traps like spikes present instant death challenges.
-    Modular Design: The game is structured around packages for game objects, main game functionality, and UI components.
+    
+Modular Design: The game is structured around packages for game objects, main game functionality, and UI components.
 
 
 Getting Started
