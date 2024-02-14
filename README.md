@@ -16,9 +16,11 @@ Modular Design: The game is structured around packages for game objects, main ga
 _Getting Started_
 
 To play Cave Exploration, download the Cave-Exploration.jar file and run it using the command:
-java -jar Cave-Exploration.jar
 
-Control the player using the ZQSD keys for movement and click to launch fireballs at enemies.
+`java -jar Cave-Exploration.jar
+`
+
+Control the player using the **ZQSD** keys for movement and **click** to launch fireballs at enemies.
 
 _Development_
 
