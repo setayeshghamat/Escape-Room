@@ -49,6 +49,6 @@ java -jar Cave-Exploration.jar
 
 ## 📌 Conclusion
 
-**Cave Exploration** is more than just a game—it’s a demonstration of solid programming practices, teamwork, and creative problem-solving. Built with Java and designed with clarity, it reflects a strong grasp of object-oriented programming concepts in an engaging, interactive format.
+**Cave Exploration** is more than just a game, it’s a demonstration of solid programming practices, teamwork, and creative problem-solving. Built with Java and designed with clarity, it reflects a strong grasp of object-oriented programming concepts in an engaging, interactive format.
 
 
