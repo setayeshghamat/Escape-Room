@@ -1,31 +1,54 @@
-Cave Exploration Game
+# Cave Exploration
 
-_Introduction_
-
-Cave Exploration is a Java-based game developed for the Object-Oriented Programming 2 course at the University of Strasbourg. The game challenges players to navigate through various rooms, facing monsters and traps, collecting items, and striving to exit each level successfully.
-
-_Features_
-
-Dynamic Gameplay: Players move a character with health and attack points through pages, facing monsters and avoiding traps.
-Collectible Items: Includes magic potions for attack points, health potions, and fireballs for combat.
-Enemy and Trap Mechanics: Enemies move within the game space, with some capable of wall traversal. Traps like spikes present instant death challenges.
-    
-Modular Design: The game is structured around packages for game objects, main game functionality, and UI components.
+**Cave Exploration** is a Java-based adventure game developed as part of the Object-Oriented Programming 2 course at the University of Strasbourg. In this game, players explore a series of cave rooms, battling monsters, avoiding deadly traps, collecting useful items, and striving to reach the exit of each level.
 
 
-_Getting Started_
+## 🎮 Game Features
 
-To play Cave Exploration, download the Cave-Exploration.jar file and run it using the command:
+* **Dynamic Gameplay**: Control a character with adjustable health and attack stats. Navigate through interconnected rooms filled with hazards and enemies.
+* **Collectible Items**:
 
-`java -jar Cave-Exploration.jar
-`
+  * *Magic Potions*: Boost your attack power.
+  * *Health Potions*: Restore your health.
+  * *Fireballs*: Used to attack enemies.
+* **Enemy & Trap Mechanics**:
 
-Control the player using the **ZQSD** keys for movement and **click** to launch fireballs at enemies.
+  * Various enemy types, some of which can pass through walls.
+  * Lethal traps like spikes that result in instant death.
+* **Modular Codebase**:
 
-_Development_
+  * Organized using packages for core game logic, game objects, and user interface components.
+  * Clean architecture following object-oriented principles.
 
-This project emphasizes collaboration and efficient algorithm implementation, incorporating UML for planning and Java for development. The design includes abstract classes for game objects, enumerated types for item identification, and a focus on object-oriented programming principles.
 
-_Conclusion_
+## 🚀 Getting Started
 
-Cave Exploration represents a comprehensive application of object-oriented programming techniques, offering a rich, interactive game experience while showcasing the developers' technical skills and creativity.
+1. **Download** the latest release: `Cave-Exploration.jar`
+2. **Run the game** using the following command:
+
+```bash
+java -jar Cave-Exploration.jar
+```
+
+3. **Controls**:
+
+   * Move using the `Z`, `Q`, `S`, and `D` keys.
+   * Click to launch fireballs at enemies.
+
+
+## 🛠 Development Highlights
+
+* **Collaboration-Oriented**: Designed and developed as a team project.
+* **Strong OOP Principles**:
+
+  * Use of abstract classes for general game entities.
+  * Enum types for identifying items and entities.
+* **Efficient Architecture**: Modular and extensible code, with clear separation of concerns.
+* **UML-Based Planning**: Class diagrams and sequence diagrams were used to structure the system before implementation.
+
+
+## 📌 Conclusion
+
+**Cave Exploration** is more than just a game—it’s a demonstration of solid programming practices, teamwork, and creative problem-solving. Built with Java and designed with clarity, it reflects a strong grasp of object-oriented programming concepts in an engaging, interactive format.
+
+
