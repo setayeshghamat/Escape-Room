@@ -1,54 +1,57 @@
 # Cave Exploration
 
-**Cave Exploration** is a Java-based adventure game developed as part of the Object-Oriented Programming 2 course at the University of Strasbourg. In this game, players explore a series of cave rooms, battling monsters, avoiding deadly traps, collecting useful items, and striving to reach the exit of each level.
-
+**Cave Exploration** is a Java-based adventure game developed as part of the *Object-Oriented Programming 2* course at the University of Strasbourg. The project focuses on applying object-oriented design principles through an interactive game in which players navigate a network of cave rooms, confront enemies, avoid hazardous traps, collect strategic items, and progress toward the exit of each level.
 
 ## 🎮 Game Features
 
-* **Dynamic Gameplay**: Control a character with adjustable health and attack stats. Navigate through interconnected rooms filled with hazards and enemies.
-* **Collectible Items**:
+* **Engaging Gameplay**
+  Players control a character with configurable health and attack attributes while exploring interconnected cave environments populated with enemies and obstacles.
 
-  * *Magic Potions*: Boost your attack power.
-  * *Health Potions*: Restore your health.
-  * *Fireballs*: Used to attack enemies.
-* **Enemy & Trap Mechanics**:
+* **Collectible Items**
 
-  * Various enemy types, some of which can pass through walls.
-  * Lethal traps like spikes that result in instant death.
-* **Modular Codebase**:
+  * *Magic Potions*: Increase attack power
+  * *Health Potions*: Restore player health
+  * *Fireballs*: Offensive projectiles used against enemies
 
-  * Organized using packages for core game logic, game objects, and user interface components.
-  * Clean architecture following object-oriented principles.
+* **Enemy and Trap Systems**
 
+  * Multiple enemy types with distinct behaviors, including enemies capable of passing through walls
+  * Environmental hazards such as spike traps that cause instant death
+
+* **Modular Code Architecture**
+
+  * Codebase structured into clear packages separating game logic, game entities, and user interface components
+  * Design adheres strictly to object-oriented programming best practices
 
 ## 🚀 Getting Started
 
-1. **Download** the latest release: `Cave-Exploration.jar`
-2. **Run the game** using the following command:
+1. Download the latest release: `Cave-Exploration.jar`
+2. Run the application using:
 
-```bash
-java -jar Cave-Exploration.jar
-```
+   ```bash
+   java -jar Cave-Exploration.jar
+   ```
+3. **Controls**
 
-3. **Controls**:
-
-   * Move using the `Z`, `Q`, `S`, and `D` keys.
-   * Click to launch fireballs at enemies.
-
+   * Movement: `Z`, `Q`, `S`, `D`
+   * Mouse click: Launch fireballs
 
 ## 🛠 Development Highlights
 
-* **Collaboration-Oriented**: Designed and developed as a team project.
-* **Strong OOP Principles**:
+* **Team-Based Development**
+  Implemented collaboratively, emphasizing coordination and shared design decisions.
 
-  * Use of abstract classes for general game entities.
-  * Enum types for identifying items and entities.
-* **Efficient Architecture**: Modular and extensible code, with clear separation of concerns.
-* **UML-Based Planning**: Class diagrams and sequence diagrams were used to structure the system before implementation.
+* **Robust Object-Oriented Design**
 
+  * Abstract classes for generalized game entities
+  * Enumerations for consistent identification of items and entities
+
+* **Scalable and Maintainable Architecture**
+  Modular, extensible structure with a clear separation of responsibilities.
+
+* **UML-Driven Design Process**
+  Class and sequence diagrams were used during the planning phase to guide implementation.
 
 ## 📌 Conclusion
 
-**Cave Exploration** is more than just a game, it’s a demonstration of solid programming practices, teamwork, and creative problem-solving. Built with Java and designed with clarity, it reflects a strong grasp of object-oriented programming concepts in an engaging, interactive format.
-
-
+**Cave Exploration** serves as both an interactive game and a technical demonstration of effective object-oriented programming, collaborative development, and structured software design. The project highlights clean architecture, thoughtful planning, and practical application of Java in an academic setting.
