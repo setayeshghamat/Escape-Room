@@ -1,4 +1,4 @@
-# Cave Exploration
+# Cave Exploration, Escape Room
 
 **Cave Exploration** is a Java-based adventure game developed as part of the *Object-Oriented Programming 2* course at the University of Strasbourg. The project focuses on applying object-oriented design principles through an interactive game in which players navigate a network of cave rooms, confront enemies, avoid hazardous traps, collect strategic items, and progress toward the exit of each level.
 
